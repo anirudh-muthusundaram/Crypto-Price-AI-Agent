@@ -1,0 +1,12 @@
+# Environment variables
+.env
+
+# Virtual Environment
+agentenv/
+
+# macOS system files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
